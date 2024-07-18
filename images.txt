@@ -5,3 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 nigelpoulton/k8sbook
+nigelpoulton/k8sbook:2.0
+nigelpoulton/k8sbook:1.0
