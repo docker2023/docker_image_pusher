@@ -7,3 +7,4 @@ xhofe/alist:latest
 nigelpoulton/k8sbook
 nigelpoulton/k8sbook:2.0
 nigelpoulton/k8sbook:1.0
+registry.k8s.io/metrics-server/metrics-server:v0.6.4
